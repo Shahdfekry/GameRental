@@ -1,0 +1,43 @@
+E:\rawanprojs\DBproj\GameRental-v2\bin\Debug\GameRental-v2.exe.config
+E:\rawanprojs\DBproj\GameRental-v2\bin\Debug\GameRental-v2.exe
+E:\rawanprojs\DBproj\GameRental-v2\bin\Debug\GameRental-v2.pdb
+E:\rawanprojs\DBproj\GameRental-v2\bin\Debug\Guna.UI2.dll
+E:\rawanprojs\DBproj\GameRental-v2\obj\Debug\GameRental-v2.csproj.AssemblyReference.cache
+E:\rawanprojs\DBproj\GameRental-v2\obj\Debug\GameRental-v2.csproj.SuggestedBindingRedirects.cache
+E:\rawanprojs\DBproj\GameRental-v2\obj\Debug\GameRental_v2.Splash.resources
+E:\rawanprojs\DBproj\GameRental-v2\obj\Debug\GameRental_v2.Properties.Resources.resources
+E:\rawanprojs\DBproj\GameRental-v2\obj\Debug\GameRental_v2.loginn.resources
+E:\rawanprojs\DBproj\GameRental-v2\obj\Debug\GameRental-v2.csproj.GenerateResource.cache
+E:\rawanprojs\DBproj\GameRental-v2\obj\Debug\GameRental-v2.csproj.CoreCompileInputs.cache
+E:\rawanprojs\DBproj\GameRental-v2\obj\Debug\GameRental-v2.csproj.CopyComplete
+E:\rawanprojs\DBproj\GameRental-v2\obj\Debug\GameRental-v2.exe
+E:\rawanprojs\DBproj\GameRental-v2\obj\Debug\GameRental-v2.pdb
+E:\rawanprojs\DBproj\GameRental-v2\obj\Debug\GameRental_v2.Admins.resources
+E:\rawanprojs\DBproj\GameRental-v2\obj\Debug\GameRental_v2.MainForm.resources
+E:\rawanprojs\DBproj\GameRental-v2\obj\Debug\GameRental_v2.Clients.resources
+E:\rawanprojs\DBproj\GameRental-v2\obj\Debug\GameRental_v2.Games.resources
+E:\rawanprojs\DBproj\GameRental-v2\obj\Debug\GameRental_v2.Rental.resources
+E:\rawanprojs\DBproj\GameRental-v2\obj\Debug\GameRental_v2.Return.resources
+E:\rawanprojs\DBproj\GameRental-v2\bin\Debug\Database1.mdf
+E:\rawanprojs\DBproj\GameRental-v2\bin\Debug\Database1_log.ldf
+C:\Users\w\Desktop\GameRental-v2 (2)\GameRental-v2\bin\Debug\Database1.mdf
+C:\Users\w\Desktop\GameRental-v2 (2)\GameRental-v2\bin\Debug\Database1_log.ldf
+C:\Users\w\Desktop\GameRental-v2 (2)\GameRental-v2\bin\Debug\GameRental-v2.exe.config
+C:\Users\w\Desktop\GameRental-v2 (2)\GameRental-v2\bin\Debug\GameRental-v2.exe
+C:\Users\w\Desktop\GameRental-v2 (2)\GameRental-v2\bin\Debug\GameRental-v2.pdb
+C:\Users\w\Desktop\GameRental-v2 (2)\GameRental-v2\obj\Debug\GameRental-v2.csproj.AssemblyReference.cache
+C:\Users\w\Desktop\GameRental-v2 (2)\GameRental-v2\obj\Debug\GameRental-v2.csproj.SuggestedBindingRedirects.cache
+C:\Users\w\Desktop\GameRental-v2 (2)\GameRental-v2\obj\Debug\GameRental_v2.Admins.resources
+C:\Users\w\Desktop\GameRental-v2 (2)\GameRental-v2\obj\Debug\GameRental_v2.Clients.resources
+C:\Users\w\Desktop\GameRental-v2 (2)\GameRental-v2\obj\Debug\GameRental_v2.Games.resources
+C:\Users\w\Desktop\GameRental-v2 (2)\GameRental-v2\obj\Debug\GameRental_v2.MainForm.resources
+C:\Users\w\Desktop\GameRental-v2 (2)\GameRental-v2\obj\Debug\GameRental_v2.Rental.resources
+C:\Users\w\Desktop\GameRental-v2 (2)\GameRental-v2\obj\Debug\GameRental_v2.Return.resources
+C:\Users\w\Desktop\GameRental-v2 (2)\GameRental-v2\obj\Debug\GameRental_v2.Splash.resources
+C:\Users\w\Desktop\GameRental-v2 (2)\GameRental-v2\obj\Debug\GameRental_v2.Properties.Resources.resources
+C:\Users\w\Desktop\GameRental-v2 (2)\GameRental-v2\obj\Debug\GameRental_v2.loginn.resources
+C:\Users\w\Desktop\GameRental-v2 (2)\GameRental-v2\obj\Debug\GameRental-v2.csproj.GenerateResource.cache
+C:\Users\w\Desktop\GameRental-v2 (2)\GameRental-v2\obj\Debug\GameRental-v2.csproj.CoreCompileInputs.cache
+C:\Users\w\Desktop\GameRental-v2 (2)\GameRental-v2\obj\Debug\GameRental-v2.csproj.CopyComplete
+C:\Users\w\Desktop\GameRental-v2 (2)\GameRental-v2\obj\Debug\GameRental-v2.exe
+C:\Users\w\Desktop\GameRental-v2 (2)\GameRental-v2\obj\Debug\GameRental-v2.pdb
